@@ -1,0 +1,1586 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Online Tutorials",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3-pro.jpg",
+            "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4 Pro",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5-pro.jpg",
+            "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tutorials 1",
+            "screenshot": "screenshots\/tutorials-1.jpg",
+            "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tutorials 2",
+            "screenshot": "screenshots\/tutorials-2-pro.jpg",
+            "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tutorials 3",
+            "screenshot": "screenshots\/tutorials-3.jpg",
+            "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tutorial Series",
+            "screenshot": "screenshots\/tutorial-series.jpg",
+            "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Author Tutorials",
+            "screenshot": "screenshots\/author-tutorials.jpg",
+            "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Tutorial 1",
+            "screenshot": "screenshots\/single-tutorial-1.jpg",
+            "source": "templates\/single-tutorial-1-a3f906ec4fce6e0dffeffda3de6a50f6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Tutorial 2",
+            "screenshot": "screenshots\/single-tutorial-2.jpg",
+            "source": "templates\/single-tutorial-2-386c13c3999989c0221685e502f6ef57.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Tutorial 3",
+            "screenshot": "screenshots\/single-tutorial-3-pro.jpg",
+            "source": "templates\/single-tutorial-3-cea060f147330b14f9accf0bbb1e293d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Tutorial 4",
+            "screenshot": "screenshots\/single-tutorial-4-pro.jpg",
+            "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us 1",
+            "screenshot": "screenshots\/about-us-1.jpg",
+            "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2-pro.jpg",
+            "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Success Stories Pro",
+            "screenshot": "screenshots\/success-stories-pro.jpg",
+            "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us 1",
+            "screenshot": "screenshots\/contact-us-1.jpg",
+            "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Help & Support",
+            "screenshot": "screenshots\/help-support.jpg",
+            "source": "templates\/help-support-f04594169c7331fcd50f469b308c2188.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us 2- Pro",
+            "screenshot": "screenshots\/contact-us-2-pro.jpg",
+            "source": "templates\/contact-us-2-pro-31322b25fbf3242139640414d4d188eb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-d18cac3ac92f54305263a03ad3826163.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "wavy-pattern1cc0.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/wavy-pattern1cc0-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                },
+                {
+                    "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+                    "name": "Contact Us 1"
+                }
+            ],
+            "filesize": 776746,
+            "dimensions": [
+                1980,
+                1980
+            ]
+        },
+        {
+            "filename": "hero-mask-envato-kit0129-CC0.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/hero-mask-envato-kit0129-CC0-500x281.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                },
+                {
+                    "source": "templates\/popup-d18cac3ac92f54305263a03ad3826163.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 68184,
+            "dimensions": [
+                1920,
+                1080
+            ]
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/transparent-500x375.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+                    "name": "Single Tutorial 4"
+                }
+            ],
+            "filesize": 4660,
+            "dimensions": [
+                640,
+                480
+            ]
+        },
+        {
+            "filename": "growthcc0-.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/growthcc0-.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/help-support-f04594169c7331fcd50f469b308c2188.json",
+                    "name": "Help & Support"
+                }
+            ],
+            "filesize": 7528,
+            "dimensions": [
+                80,
+                80
+            ]
+        },
+        {
+            "filename": "cloudcc0-.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/cloudcc0-.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                },
+                {
+                    "source": "templates\/help-support-f04594169c7331fcd50f469b308c2188.json",
+                    "name": "Help & Support"
+                }
+            ],
+            "filesize": 6764,
+            "dimensions": [
+                80,
+                80
+            ]
+        },
+        {
+            "filename": "successcc0-.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/successcc0-.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/help-support-f04594169c7331fcd50f469b308c2188.json",
+                    "name": "Help & Support"
+                }
+            ],
+            "filesize": 4918,
+            "dimensions": [
+                80,
+                80
+            ]
+        },
+        {
+            "filename": "reportcc0-.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/reportcc0-.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 5619,
+            "dimensions": [
+                80,
+                80
+            ]
+        },
+        {
+            "filename": "bottom-border3-envato-kit0129-CC0.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/bottom-border3-envato-kit0129-CC0-500x180.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+                    "name": "Tutorials 2"
+                },
+                {
+                    "source": "templates\/single-tutorial-3-cea060f147330b14f9accf0bbb1e293d.json",
+                    "name": "Single Tutorial 3"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/contact-us-2-pro-31322b25fbf3242139640414d4d188eb.json",
+                    "name": "Contact Us 2- Pro"
+                }
+            ],
+            "filesize": 27951,
+            "dimensions": [
+                1920,
+                693
+            ]
+        },
+        {
+            "filename": "music.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/music-500x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+                    "name": "Tutorials 2"
+                }
+            ],
+            "filesize": 42491,
+            "dimensions": [
+                1200,
+                795
+            ]
+        },
+        {
+            "filename": "programming.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/programming-500x348.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+                    "name": "Tutorials 2"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 71094,
+            "dimensions": [
+                1200,
+                836
+            ]
+        },
+        {
+            "filename": "photo.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/photo-500x328.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+                    "name": "Tutorials 2"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 99126,
+            "dimensions": [
+                1200,
+                786
+            ]
+        },
+        {
+            "filename": "woman-transparent-pexels-beauty-black-female-face-facial-expression-1181476.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/woman-transparent-pexels-beauty-black-female-face-facial-expression-1181476-500x631.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 1800301,
+            "dimensions": [
+                1189,
+                1500
+            ]
+        },
+        {
+            "filename": "bottom-border2-envato-kit0129-CC0.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/bottom-border2-envato-kit0129-CC0-500x180.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/single-tutorial-1-a3f906ec4fce6e0dffeffda3de6a50f6.json",
+                    "name": "Single Tutorial 1"
+                }
+            ],
+            "filesize": 27939,
+            "dimensions": [
+                1920,
+                693
+            ]
+        },
+        {
+            "filename": "luca-bravo-217276-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/luca-bravo-217276-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/single-tutorial-1-a3f906ec4fce6e0dffeffda3de6a50f6.json",
+                    "name": "Single Tutorial 1"
+                },
+                {
+                    "source": "templates\/single-tutorial-2-386c13c3999989c0221685e502f6ef57.json",
+                    "name": "Single Tutorial 2"
+                },
+                {
+                    "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+                    "name": "Single Tutorial 4"
+                }
+            ],
+            "filesize": 204179,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "icon-media.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/icon-media.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+                    "name": "Contact Us 1"
+                }
+            ],
+            "filesize": 3360,
+            "dimensions": [
+                48,
+                48
+            ]
+        },
+        {
+            "filename": "icon-unlimited.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/icon-unlimited.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 2976,
+            "dimensions": [
+                56,
+                35
+            ]
+        },
+        {
+            "filename": "icon-student-hat.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/icon-student-hat.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+                    "name": "Contact Us 1"
+                }
+            ],
+            "filesize": 4709,
+            "dimensions": [
+                85,
+                52
+            ]
+        },
+        {
+            "filename": "programming-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/programming-1-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+                    "name": "Tutorials 2"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/single-tutorial-3-cea060f147330b14f9accf0bbb1e293d.json",
+                    "name": "Single Tutorial 3"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 151665,
+            "dimensions": [
+                2000,
+                1500
+            ]
+        },
+        {
+            "filename": "woman-hand-desk-office.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/woman-hand-desk-office-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 127267,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "yoga-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/yoga-2-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                }
+            ],
+            "filesize": 119118,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "cooking.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/cooking-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+                    "name": "Tutorials 2"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                }
+            ],
+            "filesize": 58230,
+            "dimensions": [
+                1200,
+                802
+            ]
+        },
+        {
+            "filename": "happy-woman.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/happy-woman-500x604.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 379849,
+            "dimensions": [
+                662,
+                800
+            ]
+        },
+        {
+            "filename": "teacher-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/teacher-2-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/single-tutorial-2-386c13c3999989c0221685e502f6ef57.json",
+                    "name": "Single Tutorial 2"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+                    "name": "Contact Us 1"
+                },
+                {
+                    "source": "templates\/contact-us-2-pro-31322b25fbf3242139640414d4d188eb.json",
+                    "name": "Contact Us 2- Pro"
+                }
+            ],
+            "filesize": 69483,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "teacher-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/teacher-1-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-424ce41a0d4c5202816f002845f0892f.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+                    "name": "Contact Us 1"
+                },
+                {
+                    "source": "templates\/contact-us-2-pro-31322b25fbf3242139640414d4d188eb.json",
+                    "name": "Contact Us 2- Pro"
+                }
+            ],
+            "filesize": 61642,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "accounting.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/accounting-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+                    "name": "Tutorials 2"
+                }
+            ],
+            "filesize": 77312,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "woman-desk-work.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/woman-desk-work-500x370.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-6f141f8c2f534050ef42fa0f87885b51.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/tutorials-2-512a51abe06f71d6e774baf76434f5f9.json",
+                    "name": "Tutorials 2"
+                }
+            ],
+            "filesize": 234278,
+            "dimensions": [
+                2000,
+                1481
+            ]
+        },
+        {
+            "filename": "pexels-photo-1467277.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/pexels-photo-1467277-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 129942,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "happy-man.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/happy-man-500x604.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 565337,
+            "dimensions": [
+                662,
+                800
+            ]
+        },
+        {
+            "filename": "fifthflour.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/fifthflour.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 910,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "Modal...png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/Modal...png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 1738,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "madrin.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/madrin.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 1064,
+            "dimensions": [
+                200,
+                150
+            ]
+        },
+        {
+            "filename": "icon-time-glass.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/icon-time-glass.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 2702,
+            "dimensions": [
+                46,
+                43
+            ]
+        },
+        {
+            "filename": "icon-saving-pig.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/icon-saving-pig.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-e7380fdbe7fb8f705d32c9a454ebe739.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+                    "name": "Contact Us 1"
+                }
+            ],
+            "filesize": 2993,
+            "dimensions": [
+                52,
+                47
+            ]
+        },
+        {
+            "filename": "top-border6-envato-kit0129-CC0.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/12\/top-border6-envato-kit0129-CC0-500x180.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/single-tutorial-3-cea060f147330b14f9accf0bbb1e293d.json",
+                    "name": "Single Tutorial 3"
+                },
+                {
+                    "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+                    "name": "Single Tutorial 4"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-us-2-pro-31322b25fbf3242139640414d4d188eb.json",
+                    "name": "Contact Us 2- Pro"
+                }
+            ],
+            "filesize": 37263,
+            "dimensions": [
+                1920,
+                693
+            ]
+        },
+        {
+            "filename": "online-education.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/online-education.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/contact-us-2-pro-31322b25fbf3242139640414d4d188eb.json",
+                    "name": "Contact Us 2- Pro"
+                }
+            ],
+            "filesize": 39068,
+            "dimensions": [
+                395,
+                393
+            ]
+        },
+        {
+            "filename": "teacher-3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/teacher-3-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+                    "name": "Contact Us 1"
+                },
+                {
+                    "source": "templates\/contact-us-2-pro-31322b25fbf3242139640414d4d188eb.json",
+                    "name": "Contact Us 2- Pro"
+                }
+            ],
+            "filesize": 58800,
+            "dimensions": [
+                800,
+                800
+            ]
+        },
+        {
+            "filename": "ava4.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/ava4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5-df9d649f72b680c1ba7ae0d43d886ef8.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/single-tutorial-3-cea060f147330b14f9accf0bbb1e293d.json",
+                    "name": "Single Tutorial 3"
+                },
+                {
+                    "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+                    "name": "Single Tutorial 4"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                },
+                {
+                    "source": "templates\/about-us-2-c762a40644285c3f3a7aee631a92a5a3.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/contact-us-1-bb3b72fb36ebee51ebffc492b8a778fa.json",
+                    "name": "Contact Us 1"
+                },
+                {
+                    "source": "templates\/contact-us-2-pro-31322b25fbf3242139640414d4d188eb.json",
+                    "name": "Contact Us 2- Pro"
+                }
+            ],
+            "filesize": 280994,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "pexels-photo-1229861.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/pexels-photo-1229861-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/tutorials-1-118531d43ea368810ac7b2c54e4a530f.json",
+                    "name": "Tutorials 1"
+                },
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 83048,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "y11.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/y11.png",
+            "templates": [
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/single-tutorial-1-a3f906ec4fce6e0dffeffda3de6a50f6.json",
+                    "name": "Single Tutorial 1"
+                },
+                {
+                    "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+                    "name": "Single Tutorial 4"
+                },
+                {
+                    "source": "templates\/about-us-1-c4af402f0e7e25662d36e0746f83d36a.json",
+                    "name": "About Us 1"
+                }
+            ],
+            "filesize": 334302,
+            "dimensions": [
+                400,
+                400
+            ]
+        },
+        {
+            "filename": "pexels-photo-160107.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/pexels-photo-160107-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/tutorial-series-76b105b62b1ce2d39bd2da78dabb40a5.json",
+                    "name": "Tutorial Series"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                }
+            ],
+            "filesize": 112005,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-photo-1289901.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/pexels-photo-1289901-500x304.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+                    "name": "Single Tutorial 4"
+                }
+            ],
+            "filesize": 154240,
+            "dimensions": [
+                1280,
+                777
+            ]
+        },
+        {
+            "filename": "fashion-legs-notebook-working.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/fashion-legs-notebook-working-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tutorials-3-3a1102e8996cae72b5bc3fced8820389.json",
+                    "name": "Tutorials 3"
+                },
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                },
+                {
+                    "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+                    "name": "Single Tutorial 4"
+                }
+            ],
+            "filesize": 144250,
+            "dimensions": [
+                1280,
+                854
+            ]
+        },
+        {
+            "filename": "pexels-photo-597331.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/pexels-photo-597331-500x334.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/author-tutorials-9f8dde2d576ca1251cfd2c2798d0c6c1.json",
+                    "name": "Author Tutorials"
+                }
+            ],
+            "filesize": 89635,
+            "dimensions": [
+                1280,
+                854
+            ]
+        },
+        {
+            "filename": "bottom-border-envato-kit0129-CC0.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/bottom-border-envato-kit0129-CC0-500x180.png",
+            "templates": [
+                {
+                    "source": "templates\/single-tutorial-4-6923af2a6139487c61688fb7dc60c9f5.json",
+                    "name": "Single Tutorial 4"
+                }
+            ],
+            "filesize": 27422,
+            "dimensions": [
+                1920,
+                693
+            ]
+        },
+        {
+            "filename": "pexels-photo-1181233.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-129\/wp-content\/uploads\/sites\/133\/2018\/11\/pexels-photo-1181233-500x334.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/success-stories-pro-f94130740732567dac39b2bd597ee247.json",
+                    "name": "Success Stories Pro"
+                }
+            ],
+            "filesize": 220266,
+            "dimensions": [
+                1280,
+                854
+            ]
+        }
+    ]
+}

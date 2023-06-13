@@ -1,0 +1,97 @@
+/* Envato Elements Template Kit 129 */
+/* Inline heading */
+.envato-kit-129-inline-heading .elementor-widget-container {
+	display: inline-block;
+}
+
+
+/* Special image caption*/
+.envato-kit-129-special-caption .widget-image-caption {
+	position: absolute;
+	top: 65%;
+	left: 50%;
+	z-index: 1;
+	display: block;
+	background: #fff;
+	padding: 3px;
+	border-radius: 4px;
+}
+/*
+ * Fix for "Icons list" horizontal aligning (flexbox)
+ */
+.envato-kit-129-justified-icons .elementor-widget-icon-box.elementor-vertical-align-middle .elementor-icon-box-wrapper {
+	-ms-flex-align: center;
+	-ms-flex-pack: center;
+	-webkit-align-items: center;
+	-webkit-box-align: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+}
+/* Aligning unordered list */
+.envato-kit-129-texteditor-ul ul {
+	padding-left: 1rem;
+}
+
+/* Accordion Element as menu */
+.envato-kit-129-accordion-menu .elementor-tab-content ul {
+	list-style: none;
+	padding-left: 20px;
+	margin: 0;
+}
+.envato-kit-129-accordion-menu .elementor-tab-content li {
+	line-height: 1.7rem;
+}
+.envato-kit-129-accordion-menu .elementor-tab-content li:before {
+	content: "\f105";
+	position: absolute;
+	font-family: "FontAwesome";
+	left: 25px;
+}
+/*
+ * Course preview fixed sidebar  */
+@media (min-width: 768px) {
+	.envato-kit-129-course-preview {
+		position: absolute;
+	}
+}
+/*
+ * Special hover effect for custom team member section
+ */
+.envato-kit-129-team {
+	-webkit-transform: scale(1) rotate(0deg);
+	-ms-transform: scale(1) rotate(0deg);
+	transform: scale(1) rotate(0deg);
+	-webkit-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
+.envato-kit-129-team .elementor-heading-title,
+.envato-kit-129-team .elementor-widget-social-icons {
+	-webkit-transform: scale(1) rotate(0deg);
+	-ms-transform: scale(1) rotate(0deg);
+	transform: scale(1) rotate(0deg);
+	-webkit-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
+.envato-kit-129-team:hover {
+	-webkit-transform: scale(1) rotate(10deg);
+	-ms-transform: scale(1) rotate(10deg);
+	transform: scale(1) rotate(10deg);
+}
+.envato-kit-129-team:hover .elementor-heading-title,
+.envato-kit-129-team:hover .elementor-widget-social-icons {
+	-webkit-transform: scale(1) rotate(-10deg);
+	-ms-transform: scale(1) rotate(-10deg);
+	transform: scale(1) rotate(-10deg);
+}
+.envato-kit-129-team.smaller {
+	-webkit-transform: scale(0.9) rotate(0);
+	-ms-transform: scale(0.9) rotate(0);
+	transform: scale(0.9) rotate(0);
+}
+.envato-kit-129-team.smaller:hover {
+	-webkit-transform: scale(1) rotate(10deg);
+	-ms-transform: scale(1) rotate(10deg);
+	transform: scale(1) rotate(10deg);
+}

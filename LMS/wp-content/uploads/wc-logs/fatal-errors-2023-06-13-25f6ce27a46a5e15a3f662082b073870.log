@@ -1,0 +1,6 @@
+2023-06-13T03:46:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\LMS\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2023-06-13T03:49:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\LMS\wp-includes\Requests\src\Transport\Curl.php on line 533
+
+2023-06-13T03:51:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\LMS\wp-includes\Requests\src\Transport\Curl.php on line 533
+
